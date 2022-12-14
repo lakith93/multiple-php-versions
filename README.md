@@ -1,4 +1,4 @@
-# RUN TWO DIFFERENT PHP VIRSIONS AT SAME TIME
+# RUN TWO DIFFERENT PHP VERSIONS AT SAME TIME
 
 For my personal projects, I needed to have two different PHP versions running at the same time of my server. And those project needed mysqli and msql extensions separately.
 
@@ -118,4 +118,4 @@ You can do the same process using [Dockerfile](https://docs.docker.com/). For mo
 
 ## Author
 
-* **[Lakith Lahiru](https://www.linkedin.com/in/lakithlahiru/)** 
+* **[Lakith Lahiru](https://lk.linkedin.com/in/lakith-lahiru-17a61866)** 
